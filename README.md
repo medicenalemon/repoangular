@@ -1,3 +1,3 @@
-# ensolvers-angular
+repoangular
 
-Proyecto TODO realizado en Angular.js para la entrevista de Ensolvers
+Proyecto TODO realizado en Angular.js
